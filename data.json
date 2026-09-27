@@ -1,1 +1,8 @@
 
+{
+  "global": {
+    "paywall_products": ["1w", "1m", "1y", "pro"],
+    "show_paid_lifetime_onboarding": true
+  },
+  "apps": {}
+}
